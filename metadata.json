@@ -1,0 +1,6 @@
+{
+  "name": "Cisco Packet Tracer Web Simulator",
+  "description": "Interactive Cisco Network Packet Tracer simulation lab with IOS CLI, real-time routing, switching, packet inspection, and guided labs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
